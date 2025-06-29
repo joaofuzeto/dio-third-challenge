@@ -9,7 +9,7 @@
 * Se for entre 25,0 e 29,9 "Levemente acima do peso";
 * Se for entre 30,0 e 34,9 "Obesidade grau I";
 * Se for entre 35,0 e 39,9 "Obesidade grau II (Severa)";
-* Se for maior que 40,0 "Obesidade grau III (Mórbida)";
+* Se for maior ou igual a 40,0 "Obesidade grau III (Mórbida)";
 
 3. Escreva um código que o usuário entre com um primeiro número, um segundo número maior que o primeiro e escolhe entre a opção par e ímpar, com isso o código deve informar todos os números pares e ímpares (de acordo com a seleção inicial) no intervalo de números informados, incluindo os números informados e em ordem decrescente.
 
