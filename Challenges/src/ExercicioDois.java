@@ -5,6 +5,8 @@ public class ExercicioDois {
     public void solution2() {
         var scanner = new Scanner(System.in);
 
+        System.out.println("Exercício 2");
+
         System.out.println("Informe sua altura em metros: ");
         double height = scanner.nextDouble();
 
